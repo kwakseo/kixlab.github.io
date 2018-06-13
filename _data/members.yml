@@ -161,6 +161,12 @@ positions:
               img: 'manav.jpg'
               site: 'http://www.cse.iitd.ac.in/~cs1160523/'
               
+            - name: Rachel Kwak
+              lastName: Kwak
+              email: kwakseo@mit.edu
+              career: Research Intern
+              img: 'rachel.jpg'
+              site: ''              
 
         - positionName: Staff
           positionMembers:
